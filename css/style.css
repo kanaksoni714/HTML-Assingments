@@ -1,0 +1,30 @@
+a{
+    padding: 20px;
+    color: dimgray;
+    display: inline;
+
+}
+
+section{
+    width: 800px;
+    background-color: white;
+    padding: 20px;
+    border-style:solid;
+
+}
+aside{
+    background-color: red;
+    width: 350px;
+    float: right;
+    border-style: solid;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-color:white;
+    font-family: cursive;
+}
